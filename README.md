@@ -1,2 +1,2 @@
 # First-project-in-HTML
-# It's a website built only with HTML tags.
+ It's a website built only with HTML tags.
